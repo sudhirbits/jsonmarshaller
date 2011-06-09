@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/68/trunk/srctest/com/twolattes/json/inheritanceerror
+END
+SubclassesAndInlining.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/inheritanceerror/SubclassesAndInlining.java
+END
+InheritanceErrorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/68/trunk/srctest/com/twolattes/json/inheritanceerror/InheritanceErrorTest.java
+END
+DiscriminatorUsedTwice.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/68/trunk/srctest/com/twolattes/json/inheritanceerror/DiscriminatorUsedTwice.java
+END
+NoSubclasses.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/inheritanceerror/NoSubclasses.java
+END
+NoDiscriminator1.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/inheritanceerror/NoDiscriminator1.java
+END
+NoDiscriminatorName.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/inheritanceerror/NoDiscriminatorName.java
+END
+ChildEntityOverridingValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/inheritanceerror/ChildEntityOverridingValue.java
+END
+ParentEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/inheritanceerror/ParentEntity.java
+END
+NoDiscriminator2Subclass.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/inheritanceerror/NoDiscriminator2Subclass.java
+END
+NoDiscriminator2.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/inheritanceerror/NoDiscriminator2.java
+END
+MentionsNonSubclass.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/inheritanceerror/MentionsNonSubclass.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/113/trunk/srctest/com/twolattes/json/enumimpl
+END
+ReflectionOnEnums.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/46/trunk/srctest/com/twolattes/json/enumimpl/ReflectionOnEnums.java
+END
+HasEnum1.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/46/trunk/srctest/com/twolattes/json/enumimpl/HasEnum1.java
+END
+HasEnum2.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/46/trunk/srctest/com/twolattes/json/enumimpl/HasEnum2.java
+END
+HasEnum3.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/46/trunk/srctest/com/twolattes/json/enumimpl/HasEnum3.java
+END
+EnumTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/113/trunk/srctest/com/twolattes/json/enumimpl/EnumTest.java
+END
+HasEnum4.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/62/trunk/srctest/com/twolattes/json/enumimpl/HasEnum4.java
+END
+Abc.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/46/trunk/srctest/com/twolattes/json/enumimpl/Abc.java
+END
+HasEnumList1.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/46/trunk/srctest/com/twolattes/json/enumimpl/HasEnumList1.java
+END
+HasEnumList2.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/46/trunk/srctest/com/twolattes/json/enumimpl/HasEnumList2.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/136/trunk/srctest/com/twolattes/json/visibility1
+END
+PackagePrivateClassPublicConstuctor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/136/trunk/srctest/com/twolattes/json/visibility1/PackagePrivateClassPublicConstuctor.java
+END
+PublicClassPackagePrivateConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/visibility1/PublicClassPackagePrivateConstructor.java
+END
+PublicClassProtectedConstuctor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/visibility1/PublicClassProtectedConstuctor.java
+END
+PublicClassPrivateConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/visibility1/PublicClassPrivateConstructor.java
+END
+PackagePrivateClassPackagePrivateConstuctor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/visibility1/PackagePrivateClassPackagePrivateConstuctor.java
+END
+Visibility1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/136/trunk/srctest/com/twolattes/json/visibility1/Visibility1Test.java
+END
+PackagePrivateClassProtectedConstuctor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/visibility1/PackagePrivateClassProtectedConstuctor.java
+END
+PackagePrivateClassPrivateConstuctor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/visibility1/PackagePrivateClassPrivateConstuctor.java
+END

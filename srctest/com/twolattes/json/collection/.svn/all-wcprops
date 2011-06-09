@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/113/trunk/srctest/com/twolattes/json/collection
+END
+PolymorphicEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/srctest/com/twolattes/json/collection/PolymorphicEntity.java
+END
+ChildPolymorphicEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/srctest/com/twolattes/json/collection/ChildPolymorphicEntity.java
+END
+EntityWithSortedSet1.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/srctest/com/twolattes/json/collection/EntityWithSortedSet1.java
+END
+EntityWithSortedSet2.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/srctest/com/twolattes/json/collection/EntityWithSortedSet2.java
+END
+EntityWithSortedSet3.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14/trunk/srctest/com/twolattes/json/collection/EntityWithSortedSet3.java
+END
+CollectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/113/trunk/srctest/com/twolattes/json/collection/CollectionTest.java
+END
+NormalAndSortedMaps.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/66/trunk/srctest/com/twolattes/json/collection/NormalAndSortedMaps.java
+END

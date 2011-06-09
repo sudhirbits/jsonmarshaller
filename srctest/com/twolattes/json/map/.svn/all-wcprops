@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/142/trunk/srctest/com/twolattes/json/map
+END
+MarshallMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/142/trunk/srctest/com/twolattes/json/map/MarshallMapTest.java
+END
+ValidMapKeysTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/142/trunk/srctest/com/twolattes/json/map/ValidMapKeysTest.java
+END
+MarshallEntityWithMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/142/trunk/srctest/com/twolattes/json/map/MarshallEntityWithMapTest.java
+END

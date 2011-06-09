@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/143/trunk/srctest/com/twolattes/json
+END
+ArrayOfList.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/ArrayOfList.java
+END
+EntityInEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/EntityInEntity.java
+END
+DoublyInlined.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/88/trunk/srctest/com/twolattes/json/DoublyInlined.java
+END
+ArrayOfArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/18/trunk/srctest/com/twolattes/json/ArrayOfArray.java
+END
+JsonTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/141/trunk/srctest/com/twolattes/json/JsonTest.java
+END
+ArrayEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/ArrayEntity.java
+END
+EntityWithNativeArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/16/trunk/srctest/com/twolattes/json/EntityWithNativeArray.java
+END
+EntityInterfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/EntityInterfaceImpl.java
+END
+DescriptorsEqualityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/116/trunk/srctest/com/twolattes/json/DescriptorsEqualityTest.java
+END
+GetSetCollidingWithField.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/GetSetCollidingWithField.java
+END
+B.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/B.java
+END
+Foo.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/133/trunk/srctest/com/twolattes/json/Foo.java
+END
+ContravariantCollectionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/143/trunk/srctest/com/twolattes/json/ContravariantCollectionEntity.java
+END
+TriplyInlined.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/88/trunk/srctest/com/twolattes/json/TriplyInlined.java
+END
+EmailInline.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/101/trunk/srctest/com/twolattes/json/EmailInline.java
+END
+Uninlineable1.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/Uninlineable1.java
+END
+Congruence.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/103/trunk/srctest/com/twolattes/json/Congruence.java
+END
+EntityInterfaceWrongImplementedBy.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/EntityInterfaceWrongImplementedBy.java
+END
+CollectionTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/srctest/com/twolattes/json/CollectionTypeTest.java
+END
+EntityInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/EntityInterface.java
+END
+CustomTypeUnmarshallingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/116/trunk/srctest/com/twolattes/json/CustomTypeUnmarshallingTest.java
+END
+EntityClassDescriptorBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/143/trunk/srctest/com/twolattes/json/EntityClassDescriptorBuilderTest.java
+END
+BaseTypeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/102/trunk/srctest/com/twolattes/json/BaseTypeEntity.java
+END
+EntityMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/EntityMap.java
+END
+NotAnEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/NotAnEntity.java
+END
+NullOptionalValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/39/trunk/srctest/com/twolattes/json/NullOptionalValue.java
+END
+VagueWildcardEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/143/trunk/srctest/com/twolattes/json/VagueWildcardEntity.java
+END
+MapTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/66/trunk/srctest/com/twolattes/json/MapTypeTest.java
+END
+MultipleViewEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/MultipleViewEntity.java
+END
+OuterClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/OuterClass.java
+END
+CollidingValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/CollidingValues.java
+END
+AllJsonTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/143/trunk/srctest/com/twolattes/json/AllJsonTests.java
+END
+EnumMarshallingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/srctest/com/twolattes/json/EnumMarshallingTest.java
+END
+Email.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/101/trunk/srctest/com/twolattes/json/Email.java
+END
+Uninlineable2.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/Uninlineable2.java
+END
+CollectionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/CollectionEntity.java
+END
+DoubleFloatPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/DoubleFloatPojo.java
+END
+BadType.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/43/trunk/srctest/com/twolattes/json/BadType.java
+END
+EntityWithURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/EntityWithURL.java
+END
+DoublyInlinedWithGetters.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/88/trunk/srctest/com/twolattes/json/DoublyInlinedWithGetters.java
+END
+PrettyPrinterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/104/trunk/srctest/com/twolattes/json/PrettyPrinterTest.java
+END
+EntityUnmarshallingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/134/trunk/srctest/com/twolattes/json/EntityUnmarshallingTest.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/User.java
+END
+ParametrizedTypesEntitiy.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/15/trunk/srctest/com/twolattes/json/ParametrizedTypesEntitiy.java
+END
+BadEntityBecauseBadType.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/BadEntityBecauseBadType.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/Node.java
+END
+TwoLattesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/67/trunk/srctest/com/twolattes/json/TwoLattesTest.java
+END
+CollectionInCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/CollectionInCollection.java
+END
+CustomTypeMarshallingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/116/trunk/srctest/com/twolattes/json/CustomTypeMarshallingTest.java
+END
+OrgJsonAssert.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/34/trunk/srctest/com/twolattes/json/OrgJsonAssert.java
+END
+InlinePolymorphic.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/81/trunk/srctest/com/twolattes/json/InlinePolymorphic.java
+END
+DescriptorFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/143/trunk/srctest/com/twolattes/json/DescriptorFactoryTest.java
+END
+PrivateNoArgConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/PrivateNoArgConstructor.java
+END
+GenericGetterSetterEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/143/trunk/srctest/com/twolattes/json/GenericGetterSetterEntity.java
+END
+Abis.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/Abis.java
+END
+GetterSetterEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/GetterSetterEntity.java
+END
+UserWithTwoInlinedEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/UserWithTwoInlinedEmail.java
+END
+UserTypeDescriptorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/69/trunk/srctest/com/twolattes/json/UserTypeDescriptorTest.java
+END
+AWithNonstandardAccessorNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/trunk/srctest/com/twolattes/json/AWithNonstandardAccessorNames.java
+END
+A.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/srctest/com/twolattes/json/A.java
+END
+EnumUnmarshallingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113/trunk/srctest/com/twolattes/json/EnumUnmarshallingTest.java
+END
+TypeOnGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/55/trunk/srctest/com/twolattes/json/TypeOnGetter.java
+END
+UserInlinedEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/143/trunk/srctest/com/twolattes/json/UserInlinedEmail.java
+END
+MarshallerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/37/trunk/srctest/com/twolattes/json/MarshallerTest.java
+END
+EntityMarshallingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/143/trunk/srctest/com/twolattes/json/EntityMarshallingTest.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/54/trunk/srctest/com/twolattes/json/testdata
+END
+sample1_pretty.json
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/53/trunk/srctest/com/twolattes/json/testdata/sample1_pretty.json
+END
+sample2_pretty.json
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/54/trunk/srctest/com/twolattes/json/testdata/sample2_pretty.json
+END
+sample3_pretty.json
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/54/trunk/srctest/com/twolattes/json/testdata/sample3_pretty.json
+END
+sample4_pretty.json
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/54/trunk/srctest/com/twolattes/json/testdata/sample4_pretty.json
+END
+sample1.json
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/53/trunk/srctest/com/twolattes/json/testdata/sample1.json
+END
+sample2.json
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/53/trunk/srctest/com/twolattes/json/testdata/sample2.json
+END
+sample3.json
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/54/trunk/srctest/com/twolattes/json/testdata/sample3.json
+END
+sample4.json
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/53/trunk/srctest/com/twolattes/json/testdata/sample4.json
+END

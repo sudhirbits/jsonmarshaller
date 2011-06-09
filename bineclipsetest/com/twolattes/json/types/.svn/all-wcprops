@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/143/trunk/srctest/com/twolattes/json/types
+END
+EntityRequiringTypeRegistration1.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/71/trunk/srctest/com/twolattes/json/types/EntityRequiringTypeRegistration1.java
+END
+EntityRequiringTypeRegistration2.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/143/trunk/srctest/com/twolattes/json/types/EntityRequiringTypeRegistration2.java
+END
+EntityRequiringTypeRegistration3.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/143/trunk/srctest/com/twolattes/json/types/EntityRequiringTypeRegistration3.java
+END
+TypesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/143/trunk/srctest/com/twolattes/json/types/TypesTest.java
+END
+URLTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/43/trunk/srctest/com/twolattes/json/types/URLTypeTest.java
+END
+EntityWithType.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/55/trunk/srctest/com/twolattes/json/types/EntityWithType.java
+END

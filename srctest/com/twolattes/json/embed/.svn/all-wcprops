@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/trunk/srctest/com/twolattes/json/embed
+END
+NestedEmbeddingWithConflict.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/84/trunk/srctest/com/twolattes/json/embed/NestedEmbeddingWithConflict.java
+END
+EmbeddingWithSubclasses.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/88/trunk/srctest/com/twolattes/json/embed/EmbeddingWithSubclasses.java
+END
+EmbeddingTwoClassesWithConflict.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/83/trunk/srctest/com/twolattes/json/embed/EmbeddingTwoClassesWithConflict.java
+END
+EmbeddingOnValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/88/trunk/srctest/com/twolattes/json/embed/EmbeddingOnValue.java
+END
+EmbeddingWithInlinedValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/88/trunk/srctest/com/twolattes/json/embed/EmbeddingWithInlinedValue.java
+END
+EmbeddingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/88/trunk/srctest/com/twolattes/json/embed/EmbeddingList.java
+END
+EmbeddingWithConflictInSubclasses.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/83/trunk/srctest/com/twolattes/json/embed/EmbeddingWithConflictInSubclasses.java
+END
+EmbeddingWithGetterSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/88/trunk/srctest/com/twolattes/json/embed/EmbeddingWithGetterSetter.java
+END
+EmbeddedWithSubclasses.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/88/trunk/srctest/com/twolattes/json/embed/EmbeddedWithSubclasses.java
+END
+EmbeddingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/101/trunk/srctest/com/twolattes/json/embed/EmbeddingTest.java
+END
+Embedding.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/83/trunk/srctest/com/twolattes/json/embed/Embedding.java
+END
+EmbeddingOptionalNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/88/trunk/srctest/com/twolattes/json/embed/EmbeddingOptionalNull.java
+END
+OptionalNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/88/trunk/srctest/com/twolattes/json/embed/OptionalNull.java
+END
+NestedEmbedding.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/88/trunk/srctest/com/twolattes/json/embed/NestedEmbedding.java
+END
+EmbeddingWithConflictOnDiscriminator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/85/trunk/srctest/com/twolattes/json/embed/EmbeddingWithConflictOnDiscriminator.java
+END
+ListOfEmbeddings.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/88/trunk/srctest/com/twolattes/json/embed/ListOfEmbeddings.java
+END
+EmbeddingNonEntityValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/84/trunk/srctest/com/twolattes/json/embed/EmbeddingNonEntityValue.java
+END
+TwoEmbeddingClasses.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/88/trunk/srctest/com/twolattes/json/embed/TwoEmbeddingClasses.java
+END
+EmbeddingTwoClasses.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/83/trunk/srctest/com/twolattes/json/embed/EmbeddingTwoClasses.java
+END
+Embedded.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/88/trunk/srctest/com/twolattes/json/embed/Embedded.java
+END
+EmbeddingWithConflictBetweenSubclassesAndEmbedded.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/83/trunk/srctest/com/twolattes/json/embed/EmbeddingWithConflictBetweenSubclassesAndEmbedded.java
+END
+NonOptionalNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/88/trunk/srctest/com/twolattes/json/embed/NonOptionalNull.java
+END
+EmbeddingWithConflict.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/83/trunk/srctest/com/twolattes/json/embed/EmbeddingWithConflict.java
+END
